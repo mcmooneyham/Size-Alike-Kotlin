@@ -21,7 +21,7 @@ All extensions are declared `inline`, which allows the Kotlin compiler to inline
 ## Requirements
 
 - Kotlin 2.1.0+
-- JDK 17+
+- JDK 11+
 
 ## Installation
 
